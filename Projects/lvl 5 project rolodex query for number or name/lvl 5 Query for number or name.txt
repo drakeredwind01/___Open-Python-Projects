@@ -1,0 +1,61 @@
+lvl 5 Query for number or name
+
+Create a python rolodex (rolodex{name}.py) that reads "name_number.txt".
+Users should be able to query the name_number.txt by name or number for an output of the corresponding number or name; users can query by name or number; output in either case should be the full name and number. Also allow user to 'quit'.
+
+name_number.txt is located in this repo
+
+Also, make a specification outlining:
+• code method/design
+• what data structure(s) to use
+• assumptions
+
+To submit your solution, create a local branch and push it:
+open Github Desktop (GD)..   Clone repo via ⇧ ⌘ O   -  or file > clone repo  
+select URL option, enter https://github.com/drakeredwind01/___Open-Python-Projects.git
+click 'clone' if needed -- it will download to Github desktop
+create branch..  select 'Current Branch main' at top..   '+ New Branch'..   
+  select new branch button..  name it..  click 'Create' button.. 
+you will have the option to open the repo in your IDE
+code your solution or changes in your IDE
+name your file: 	feature/project_rolodex/rolodex_{name}.py
+      {name}; something like your real name or user_name
+take your file and drag it to the rolodex directory in GD..  click 'Refactor' button.. 
+  make a copy if you still want to retain it where it is, otherwise you will just move your file to GD
+create a 'Changes' file: click on each file to upload, right click, select git, select + add
+  this places your file(s) in the 'Changes' folder; this will show up when you 'Commit'
+
+Commit  
+⌘ O  or click second icon down on top left; looks like -o-
+click the 'Changes' folder box, or select the files to load
+there may also be many files in a 'Unversioned files' folder which you do not need to load
+  if it contains a file you wish to load, follow the 'Changes' procedure
+write a commit message
+click 'commit and push' button
+you will be asked to login to GitHub
+click 'push' button   --if you get: 'push failed?'..  ref. below
+
+submit pull
+merge request
+
+--
+ref. 
+
+push failed ✖
+  remote: Permission denied..       fatal: unable to access.. 
+issue has to do with credential caching, or perhaps your OS is too old
+fix: instal the GitHub CLI  --aka. gh      --and/or perhaps you need a newer OS
+  ref. https://bobbyhadz.com/blog/gh-command-not-found
+  on a mac: $ brew install gh   then..   $ gh auth login   then..  $ gh --version   to verify it works
+  now try to push your file(s) again   -- ⇧ ⌘ K   on a mac
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+remote: Permission to drakeredwind01/___Open-Python-Projects.git denied to systems100.
+fatal: unable to access 'https://github.com/drakeredwind01/___Open-Python-Projects.git/': The requested URL returned error: 403
+11:33:27.687: [___Open-Python-Projects] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false push --progress --porcelain origin refs/heads/Trev:refs/heads/Trev --set-upstream
+remote: Permission to drakeredwind01/___Open-Python-Projects.git denied to systems100.
+fatal: unable to access 'https://github.com/drakeredwind01/___Open-Python-Projects.git/': The requested URL returned error: 403
+
+I have deleted projects and started over 4x
+  goto /Users/mac/Documents/GitHub/___Open-Python-Projects
+  del ___Open-Python-Projects
