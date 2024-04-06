@@ -22,9 +22,9 @@ if the project gets too complicated we'll clone the project and reasign it as th
 > <br> users should be able to put in a name
 > <br> then the computer will respond with their number
 > <br> 
-> <br> for submitions create a new b
+> ### for submitions create a new branch
 > <br> feature/project_rolodex/rolodex_{name}.py
-
+> <br> then commit, push, merge request
 
 Experience table
 Level 20 is the highest skill level achievable for a pawn.
