@@ -14,8 +14,8 @@ if the project gets too complicated we'll clone the project and reasign it as th
 > <br> 
 > <br> ___Open-Python-Projects
 > <br> └Projects
-> <br> │└project rolodex
-> <br> ││└rolodex_{name}.py
+> <br> &nbsp;&nbsp;└project rolodex
+> <br> &nbsp;&nbsp;&nbsp;&nbsp;└rolodex_{name}.py
 > <br> 
 > <br> create a python rolodex (rolodex_{name}.py)
 > <br> that reads "rolodex.txt"
