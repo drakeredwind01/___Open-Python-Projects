@@ -21,6 +21,9 @@ if the project gets too complicated we'll clone the project and reasign it as th
 > <br> that reads "rolodex.txt"
 > <br> users should be able to put in a name
 > <br> then the computer will respond with their number
+> <br> 
+> <br> for submitions create a new b
+> <br> feature/project_rolodex/rolodex_{name}.py
 
 
 Experience table
