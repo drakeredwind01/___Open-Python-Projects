@@ -37,7 +37,7 @@ click 'commit and push' button   --make sure your browser cookies are on
 you will be asked to login to GitHub
 click 'push' button   --if you get: 'push failed?'..  ref. below
 
-submit pull  ◄
+submit pull  ◄  yy
 
 merge request  ◄
 
