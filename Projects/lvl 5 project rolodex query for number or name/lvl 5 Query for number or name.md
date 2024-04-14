@@ -39,6 +39,6 @@ click 'push' button
 
 Submit pull (merge request): 
 go to https://github.com/drakeredwind01/___Open-Python-Projects <br> 
-click the green 'Compare & pull request' button; top right inside a yellow bar<br> 
-&nbsp; if you do not see this, make sure your cookies are on
-
+click the green 'Compare & pull request' button; top right inside a yellow bar <br> 
+&nbsp; if you do not see this, make sure your cookies are on <br> 
+add a title and description.. click 'Create pull request' button
