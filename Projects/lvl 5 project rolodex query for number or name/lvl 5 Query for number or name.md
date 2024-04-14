@@ -8,7 +8,7 @@ Bonus: a lesson of how to make a commit; if you need it.
 
 This is a continuation of 'project 'lvl 4 project rolodex'..  but of course you can start here.
 
-Your invited to discuss your code and other considerations, such as code method/design, data structure(s) used, assumptions and issues.. at any of our weekly discord meetings. <br> 
+Your invited to discuss your code and other considerations, such as code method/design, data structure(s) used, assumptions and issues.. at any of our weekly Discord meetings. <br> 
 https://discord.gg/8GpWuVvdbQ  
 San Diego Python Saturday Discord Meeting  - every Saturday @ 10am PST
 
