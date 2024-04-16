@@ -1,9 +1,10 @@
 # lvl 5 Query for number or name
-last updated: April 13, 2024
+last updated: April 15, 2024
 
 Create a python rolodex (rolodex{name}.py) that reads "name_number.txt".<br>
 Users should be able to query the name_number.txt document by name or number for an output of the corresponding number or name; output in either case should be the full name and number. <br>
-Also allow user to 'quit'. The name_number.txt document is located in this directory.<br>
+Also allow user to 'quit'. <br>
+The name_number.txt document is located in this directory.<br>
 Bonus: a lesson of how to make a commit; if you need it.
 
 This is a continuation of 'project 'lvl 4 project rolodex'..  but of course you can start here.
@@ -17,14 +18,14 @@ follow the invite link:  ◄ TODO<br>
 open Github Desktop (GD)..   Clone repo via ⇧ ⌘ O   -  or file > clone repo<br>
 select URL option, enter https://github.com/drakeredwind01/___Open-Python-Projects.git <br>
 click 'clone' if needed -- it will download to GD <br>
-create branch..  select 'Current Branch main' at top..   '+ New Branch'..<br>
+click on the option to open the repo in your IDE, in your IDE.. <br>
+create a branch..  select 'Current Branch main' at top..   '+ New Branch'..<br>
 &nbsp; select new branch button..  name it..  click 'Create' button..<br>
-you will have the option to open the repo in your IDE<br>
-code your solution or changes in your IDE<br>
-name your file: 	feature/project_rolodex/rolodex_{name}.py <br>
+create and name your file to submit: 	feature/project_rolodex/rolodex_{name}.py <br>
 &nbsp; {name}; something like your real name or user_name<br>
-take your file and drag it to the project file you want to submit to under 'Projects'..  click 'Refactor'
-&nbsp; make a copy if you still want to retain it where it is, otherwise you will just move your file to GD
+code your solution or changes in this new file<br>
+take your file and drag it to the project file you want to submit to under 'Projects'..  click 'Refactor'<br>
+&nbsp; this will move it to your local repo
 
 Commit <br>
 ⌘ O  or click second icon down on top left; looks like -o-<br>
@@ -41,4 +42,5 @@ Submit pull (merge request):
 go to https://github.com/drakeredwind01/___Open-Python-Projects <br> 
 click the green 'Compare & pull request' button; top right inside a yellow bar <br> 
 &nbsp; if you do not see this, make sure your cookies are on <br> 
-add a title and description.. click 'Create pull request' button
+add a title and description.. click 'Create pull request' button <br> 
+click 'Merge request' button, confirm
