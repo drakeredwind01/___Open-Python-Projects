@@ -14,7 +14,6 @@ https://discord.gg/8GpWuVvdbQ
 San Diego Python Saturday Discord Meeting  - every Saturday @ 10am PST
 
 To submit your solution, create a local branch and push it:<br>
-follow the invite link:  ◄ TODO<br>
 open Github Desktop (GD)..   Clone repo via ⇧ ⌘ O   -  or file > clone repo<br>
 select URL option, enter https://github.com/drakeredwind01/___Open-Python-Projects.git <br>
 click 'clone' if needed -- it will download to GD <br>
