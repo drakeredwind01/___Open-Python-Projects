@@ -8,7 +8,7 @@ if the project gets too complicated we'll clone the project and reasign it as th
 # sugest a new project
 create an issue titled:
 
-"NEW PROJECT: {skill level}{title}"
+"NEW PROJECT: {skill level} {title}"
 
 then add everything you are thinking about for the project
 
