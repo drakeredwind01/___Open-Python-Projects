@@ -12,7 +12,7 @@ create an issue titled:
 
 then add everything you are thinking about for the project
 
-find the skill level from below
+find the skill level from the [Experience table](https://github.com/drakeredwind01/___Open-Python-Projects/blob/main/README.md#experience-table)
 
 add the label "new_project" to your issue
 
