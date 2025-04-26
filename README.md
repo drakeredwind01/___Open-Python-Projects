@@ -7,8 +7,13 @@ we'll start by creating a project (probably starting with beginner) and
 if the project gets too complicated we'll clone the project and reasign it as the next level up, leaving the starting point for others try to get into it.
 # sugest a new project
 create an issue titled:
-"NEW PROJECT: {title}"
+
+"NEW PROJECT: {skill level}{title}"
+
 then add everything you are thinking about for the project
+
+find the skill level from below
+
 add the label "new_project" to your issue
 
 # new assignment
@@ -31,7 +36,7 @@ add the label "new_project" to your issue
 > <br> feature/project_rolodex/rolodex_{name}.py
 > <br> then commit, push, merge request
 
-Experience table
+# Experience table
 Level 20 is the highest skill level achievable for a pawn.
 
 | Level | 	Name                    | Total experience required | Experience till next level | Experience decay rate (exp/day) |
