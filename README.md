@@ -5,16 +5,11 @@ we have meetings every Saturday from 10am-12pm PST https://discord.gg/8GpWuVvdbQ
 
 we'll start by creating a project (probably starting with beginner) and 
 if the project gets too complicated we'll clone the project and reasign it as the next level up, leaving the starting point for others try to get into it.
+
+
 # sugest a new project
-create an issue titled:
+use the "[New Project Template](https://github.com/drakeredwind01/___Open-Python-Projects/issues)"
 
-"NEW PROJECT: {skill level} {title}"
-
-then add everything you are thinking about for the project
-
-find the skill level from the [Experience table](https://github.com/drakeredwind01/___Open-Python-Projects/blob/main/README.md#experience-table)
-
-add the label "new_project" to your issue
 
 # new assignment
 > ## project rolodex
