@@ -9,6 +9,7 @@ if the project gets too complicated we'll clone the project and reasign it as th
 create an issue titled:
 "NEW PROJECT: {title}"
 then add everything you are thinking about for the project
+add the label "new_project" to your issue
 
 # new assignment
 > ## project rolodex
