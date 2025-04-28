@@ -42,3 +42,8 @@ Add any other context or screenshots about the feature request here.
 
 ### **project timeline**
 how do you see the project going forward?
+
+### **let me know you made a project suggestion**
+join my discord server and let me know
+message me using @drakeredwind01 here:
+https://discord.gg/WbcWqVq
