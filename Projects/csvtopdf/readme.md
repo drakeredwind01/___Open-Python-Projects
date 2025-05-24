@@ -1,6 +1,6 @@
 # CSV to PDF Conversion Scripts
 
-This repository includes multiple Python scripts that convert a CSV file into a PDF file using different methods and libraries.
+This folder includes multiple Python scripts that convert a CSV file into a PDF file using different methods and libraries.
 
 ## Files Included
 
