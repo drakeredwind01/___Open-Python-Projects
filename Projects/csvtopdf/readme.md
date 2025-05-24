@@ -1,8 +1,3 @@
-Here is a sample `README.md` file that explains how to run all the provided Python scripts to convert the CSV file into a PDF:
-
----
-
-````markdown
 # CSV to PDF Conversion Scripts
 
 This repository includes multiple Python scripts that convert a CSV file into a PDF file using different methods and libraries.
@@ -80,10 +75,3 @@ Each script will output a file named `output.pdf` or `output3.pdf` in the curren
 ## License
 
 This project is for educational and demonstrative purposes. No warranty provided.
-
-```
-
----
-
-Let me know if you want this customized further for GitHub Pages or if you'd like the `README.md` file exported.
-```
