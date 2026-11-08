@@ -1,0 +1,19 @@
+starting_earnings = 100000
+growth_rate = 1.05
+payout_ratio = 0.40  # 40% of earnings paid as dividends
+
+future_earnings = [starting_earnings * (growth_rate ** year) for year in range(10)]
+
+projected_dividends = []
+
+for earnings in future_earnings:
+    dividend = earnings * payout_ratio
+    if dividend > 50000:  # Only track years where total dividend payout exceeds $50k
+        projected_dividends.append(dividend)
+
+# Concise and easier to read at a glance
+projected_dividends = [earnings * payout_ratio for earnings in future_earnings if (earnings * payout_ratio) > 50000]
+
+# Memory-efficient; calculates values on the fly as you loop through them
+projected_div_gen = (earnings * payout_ratio for earnings in future_earnings if (earnings * payout_ratio) > 50000)
+
